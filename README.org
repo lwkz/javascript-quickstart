@@ -1,0 +1,6 @@
+#+title: JavaScript Sandbox
+#+setupfile: ~/.lz.config/emacs/org-export-templates/note.org
+ 
+This repository hosts a collection of JavaScript code from various sources. Some
+are sample code copied from interesting tutorials found on the Internet, and
+some are code snippets I wrote to test things out.
